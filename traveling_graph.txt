@@ -1,0 +1,23 @@
+12
+21
+Seattle,SFO,1306
+SFO,LA,629
+LA,Los Vegas,435
+SFO,Los Vegas,919
+los Vegas,Denver,1225
+Seattle,Denver,2161
+Denver,Minne Apolis,1483
+Minne Apolis,Dallas,1532
+Seattle,Minne Apolis,2661
+Minne Apolis,Chicago,661
+Chicago,DC,1145
+DC,Miami,1709
+Miami,Dallas,2161
+DC,NY,383
+DC,Boston,725
+Boston,NY,338
+NY,Miami,2145
+Boston,Chicago,1613
+DC,Dallas,2113
+Denver,Dallas,1258
+Los Vegas,Dallas,1983
